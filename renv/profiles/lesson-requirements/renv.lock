@@ -200,7 +200,7 @@
     },
     "yaml": {
       "Package": "yaml",
-      "Version": "2.2.2",
+      "Version": "2.3.12",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "4597f73aad7d32c2913ec33a345f900b",
